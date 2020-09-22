@@ -262,7 +262,7 @@ div.hs-fieldtype-intl-phone.hs-input select {
 }
 
 div.hs-input-range-container {
-  width: 95%;
+  width: 100%;
 }
 
 div.hs-input-range-container div {
@@ -395,7 +395,7 @@ input.hs-input-range__slider:focus::-ms-thumb {
 }
 
 div.hs-input-rating__container {
-  width: 95%;
+  width: 100%;
   margin-bottom: 30px;
   display: table;
   table-layout: fixed;
@@ -467,7 +467,7 @@ form.hs-form fieldset {
 }
 
 form.hs-form fieldset.form-columns-1 .hs-input {
-  width: 95%;
+  width: 100%;
 }
 
 form.hs-form fieldset.form-columns-1 .input {
@@ -543,7 +543,7 @@ form.hs-custom-style>div input:not([type="image"]):not([type="submit"]):not([typ
 
   form.hs-form:not(.hs-video-form) .form-columns-2 .hs-form-field input.hs-input,
   form.hs-form:not(.hs-video-form) .form-columns-3 .hs-form-field input.hs-input {
-    width: 95%;
+    width: 100%;
   }
 
   form.hs-form:not(.hs-video-form) .form-columns-2 div.hs-form-field input[type="checkbox"],
